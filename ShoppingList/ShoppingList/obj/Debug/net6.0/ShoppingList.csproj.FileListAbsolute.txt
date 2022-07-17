@@ -1,0 +1,15 @@
+/Users/elberfunez/gc-bootcamp/labs/ShoppingList/ShoppingList/ShoppingList/bin/Debug/net6.0/ShoppingList
+/Users/elberfunez/gc-bootcamp/labs/ShoppingList/ShoppingList/ShoppingList/bin/Debug/net6.0/ShoppingList.deps.json
+/Users/elberfunez/gc-bootcamp/labs/ShoppingList/ShoppingList/ShoppingList/bin/Debug/net6.0/ShoppingList.runtimeconfig.json
+/Users/elberfunez/gc-bootcamp/labs/ShoppingList/ShoppingList/ShoppingList/bin/Debug/net6.0/ShoppingList.dll
+/Users/elberfunez/gc-bootcamp/labs/ShoppingList/ShoppingList/ShoppingList/bin/Debug/net6.0/ShoppingList.pdb
+/Users/elberfunez/gc-bootcamp/labs/ShoppingList/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.csproj.AssemblyReference.cache
+/Users/elberfunez/gc-bootcamp/labs/ShoppingList/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elberfunez/gc-bootcamp/labs/ShoppingList/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.AssemblyInfoInputs.cache
+/Users/elberfunez/gc-bootcamp/labs/ShoppingList/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.AssemblyInfo.cs
+/Users/elberfunez/gc-bootcamp/labs/ShoppingList/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.csproj.CoreCompileInputs.cache
+/Users/elberfunez/gc-bootcamp/labs/ShoppingList/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.dll
+/Users/elberfunez/gc-bootcamp/labs/ShoppingList/ShoppingList/ShoppingList/obj/Debug/net6.0/refint/ShoppingList.dll
+/Users/elberfunez/gc-bootcamp/labs/ShoppingList/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.pdb
+/Users/elberfunez/gc-bootcamp/labs/ShoppingList/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.genruntimeconfig.cache
+/Users/elberfunez/gc-bootcamp/labs/ShoppingList/ShoppingList/ShoppingList/obj/Debug/net6.0/ref/ShoppingList.dll
